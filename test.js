@@ -1,3 +1,4 @@
-const test = "test";
-const test2 = "test2";
+const test1 = "test1";
 const test3 = "git pull";
+
+const test4 = "test4";
